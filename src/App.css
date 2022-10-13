@@ -4,8 +4,9 @@
 
 .app {
   min-height: 100vh;
-  background-color: #39445a;
-  color: white;
+  background: #EFEFBB;
+	background: -webkit-linear-gradient(to right, #D4D3DD, #EFEFBB);
+	background: linear-gradient(to right, #D4D3DD, #EFEFBB);
   padding-top: 130px;
   padding-bottom: 70px;
 }
